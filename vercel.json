@@ -3,6 +3,10 @@
   "outputDirectory": ".",
   "rewrites": [
     {
+      "source": "/api/(.*)",
+      "destination": "https://tryelysion.fun/api/$1"
+    },
+    {
       "source": "/(.*)",
       "destination": "/index.html"
     }
