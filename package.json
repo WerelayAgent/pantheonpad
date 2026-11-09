@@ -1,0 +1,18 @@
+{
+  "name": "pantheonpad",
+  "version": "1.0.0",
+  "description": "PantheonPad - Where tokens begin",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "dev": "serve ."
+  },
+  "keywords": [
+    "launchpad",
+    "pantheon",
+    "pantheonpad",
+    "solana"
+  ],
+  "author": "",
+  "license": "ISC"
+}
